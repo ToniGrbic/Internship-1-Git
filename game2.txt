@@ -1,7 +1,7 @@
 Toni ima x pobjeda i y poraza!
 Roko ima z pobjeda i n poraza!
 
-. . .
 . X .
+O . .
 . . .
 
